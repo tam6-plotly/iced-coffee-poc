@@ -1,0 +1,6 @@
+dash>=3.0
+dash-ag-grid>=31.0
+pandas>=2.0
+pyarrow>=14.0
+gunicorn>=22.0
+./dash_ai_analyst-0.1.8a6-py3-none-any.whl
